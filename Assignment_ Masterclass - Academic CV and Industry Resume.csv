@@ -1,0 +1,705 @@
+_id,userId,status,data/0/date/date,data/0/date/day,data/0/date/hours,data/0/date/minutes,data/0/date/month,data/0/date/seconds,data/0/date/time,data/0/date/timezoneOffset,data/0/date/year,data/0/fileName,data/0/filePath,data/0/fileSize,data/0/message,data/0/status,data/0/notes,data/1/date/date,data/1/date/day,data/1/date/hours,data/1/date/minutes,data/1/date/month,data/1/date/seconds,data/1/date/time,data/1/date/timezoneOffset,data/1/date/year,data/1/status,data/1/message,data/1/adminId,user/_id,user/email,user/fname,data/2/date/date,data/2/date/day,data/2/date/hours,data/2/date/minutes,data/2/date/month,data/2/date/seconds,data/2/date/time,data/2/date/timezoneOffset,data/2/date/year,data/2/status,data/2/message,data/2/adminId,data/2/fileName,data/2/filePath,data/2/fileSize,data/3/date/date,data/3/date/day,data/3/date/hours,data/3/date/minutes,data/3/date/month,data/3/date/seconds,data/3/date/time,data/3/date/timezoneOffset,data/3/date/year,data/3/status,data/3/message,data/3/adminId,data/3/fileName,data/3/filePath,data/3/fileSize,data/4/date/date,data/4/date/day,data/4/date/hours,data/4/date/minutes,data/4/date/month,data/4/date/seconds,data/4/date/time,data/4/date/timezoneOffset,data/4/date/year,data/4/fileName,data/4/filePath,data/4/fileSize,data/4/message,data/4/status,data/5/date/date,data/5/date/day,data/5/date/hours,data/5/date/minutes,data/5/date/month,data/5/date/seconds,data/5/date/time,data/5/date/timezoneOffset,data/5/date/year,data/5/fileName,data/5/filePath,data/5/fileSize,data/5/status,data/5/message,data/5/adminId,data/6/date/date,data/6/date/day,data/6/date/hours,data/6/date/minutes,data/6/date/month,data/6/date/seconds,data/6/date/time,data/6/date/timezoneOffset,data/6/date/year,data/6/fileName,data/6/filePath,data/6/fileSize,data/6/message,data/6/status,data/7/date/date,data/7/date/day,data/7/date/hours,data/7/date/minutes,data/7/date/month,data/7/date/seconds,data/7/date/time,data/7/date/timezoneOffset,data/7/date/year,data/7/status,data/7/adminId,data/8/date/date,data/8/date/day,data/8/date/hours,data/8/date/minutes,data/8/date/month,data/8/date/seconds,data/8/date/time,data/8/date/timezoneOffset,data/8/date/year,data/8/fileName,data/8/filePath,data/8/fileSize,data/8/message,data/8/status,data/9/date/date,data/9/date/day,data/9/date/hours,data/9/date/minutes,data/9/date/month,data/9/date/seconds,data/9/date/time,data/9/date/timezoneOffset,data/9/date/year,data/9/status,data/9/adminId,data/10/date/date,data/10/date/day,data/10/date/hours,data/10/date/minutes,data/10/date/month,data/10/date/seconds,data/10/date/time,data/10/date/timezoneOffset,data/10/date/year,data/10/fileName,data/10/filePath,data/10/fileSize,data/10/message,data/10/status,data/11/date/date,data/11/date/day,data/11/date/hours,data/11/date/minutes,data/11/date/month,data/11/date/seconds,data/11/date/time,data/11/date/timezoneOffset,data/11/date/year,data/11/status,data/11/message,data/11/adminId
+640f2a31e4b0080be017a9e1,63b58bf2e4b0ee27df3b0e97,reviewed,13,1,13,50,2,41,1678715441155,0,123,maheshwari resume,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf2e4b0ee27df3b0e97/1678715440847/maheshwari resume,170382,Successfully Submitted,under review,maheshwari resume,27,4,8,20,3,14,1682583614326,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few allignment issues. Please correct it.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bf2e4b0ee27df3b0e97,vigyanshaalainternational1617-maheshwari951581@gmail.com,edigi maheshwari goud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f2ad3e4b0bfc4493fe01d,63b58bf5e4b0ee27df3b0ebf,reviewed,13,1,13,53,2,23,1678715603889,0,123,Your_Name_Resume v.nandu.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf5e4b0ee27df3b0ebf/1678715603613/Your_Name_Resume v.nandu.docx,11780,Successfully Submitted,under review,,27,4,5,24,3,48,1682573088088,0,123,reviewed,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b58bf5e4b0ee27df3b0ebf,vigyanshaalainternational1617-vasalamarrinandini@gmail.com,vasalamarri nandini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f2e32e4b017ea2f80256a,63b9b0bce4b0f26f1e030f3c,rejected,13,1,14,7,2,46,1678716466879,0,123,yashaswini resume,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b0bce4b0f26f1e030f3c/1678716466434/yashaswini resume,163066,Successfully Submitted,under review,yashaswini resume,27,4,8,7,3,37,1682582857566,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b0bce4b0f26f1e030f3c,vigyanshaalainternational1617-thapandatta.p@gmail.com,pailla.yashaswini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3153e4b05f1197a0e04b,63b58bf5e4b0ee27df3b0ec9,reviewed,13,1,14,21,2,7,1678717267549,0,123,n mounika .docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf5e4b0ee27df3b0ec9/1678717267294/n mounika .docx,10452,Successfully Submitted,under review,,27,4,8,10,3,26,1682583026790,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few allignment issues. Please correct it.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bf5e4b0ee27df3b0ec9,vigyanshaalainternational1617-ramaswamysanju5@gmail.com,neredi mounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f31f3e4b0080be017ac44,63b26251e4b0a6e3ea32c3f3,rejected,13,1,14,23,2,47,1678717427398,0,123,Your_Name_Resume jyothsna.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26251e4b0a6e3ea32c3f3/1678717427090/Your_Name_Resume jyothsna.docx,11415,Successfully Submitted,under review,,26,3,13,18,3,29,1682515109663,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26251e4b0a6e3ea32c3f3,vigyanshaalainternational1617-sathirijyothsna2003@gmail.com,sathiri jyothsna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f34c7e4b0a15939dccf18,63b58bf5e4b0ee27df3b0ec4,rejected,13,1,14,35,2,51,1678718151636,0,123,savithri .docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf5e4b0ee27df3b0ec4/1678718151498/savithri .docx,10299,Successfully Submitted,under review,,27,4,6,47,3,54,1682578074862,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bf5e4b0ee27df3b0ec4,vigyanshaalainternational1617-savithribankala628@gmail.com,bankala savithri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f360fe4b0d5f1fef8e91a,63b6dbe5e4b04d78f40b0b83,rejected,13,1,14,41,2,19,1678718479173,0,123,mounika resume,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b6dbe5e4b04d78f40b0b83/1678718478702/mounika resume,146997,Successfully Submitted,under review,mounika cv,27,4,7,5,3,2,1682579102106,0,123,rejected,"- Please take care of the para alignment 
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+- Take care of the unnecessary spaces. 
+",62665bb20cf29390fd9bcfeb,63b6dbe5e4b04d78f40b0b83,vigyanshaalainternational1617-mounika04012003@gmail.com,yella mounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3784e4b040a090fd5728,63b26254e4b0a6e3ea32c412,rejected,13,1,14,47,2,32,1678718852092,0,123,Your_Name_Resume srivallidaramalla.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26254e4b0a6e3ea32c412/1678718851964/Your_Name_Resume srivallidaramalla.docx,10396,Successfully Submitted,under review,,26,3,13,10,3,29,1682514629387,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26254e4b0a6e3ea32c412,vigyanshaalainternational1617-srivallidaramalla@gmail.com,daramalla srivalli,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3941e4b0bb7fe3b39573,63b58bf9e4b0ee27df3b0ee9,rejected,13,1,14,54,2,57,1678719297766,0,123,radhika .docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf9e4b0ee27df3b0ee9/1678719297488/radhika .docx,10310,Successfully Submitted,under review,,27,4,8,6,3,26,1682582786265,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b58bf9e4b0ee27df3b0ee9,vigyanshaalainternational1617-radhikasapavat105@gmail.com,sapavat radhika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f39bae4b0022d3f9e4490,63b58bf9e4b0ee27df3b0ee1,reviewed,13,1,14,56,2,58,1678719418373,0,123,Mounika.D_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf9e4b0ee27df3b0ee1/1678719418081/Mounika.D_Resume.docx,11372,Successfully Submitted,under review,,27,4,8,28,3,12,1682584092990,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few allignment issues. Please correct it.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bf9e4b0ee27df3b0ee1,vigyanshaalainternational1617-mounikad181@gmail.com,dasari mounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3b30e4b03f332d13d818,63b58bfae4b0ee27df3b0ef3,rejected,13,1,15,3,2,12,1678719792838,0,123,,,,Successfully Submitted,under review,sumalatha resume,27,4,8,5,3,6,1682582706450,0,123,rejected,No submission ,62665bb20cf29390fd9bcfeb,63b58bfae4b0ee27df3b0ef3,vigyanshaalainternational1617-harijansumalatha751@gmail.com,Harijan sumalatha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3bf6e4b0e19ab62487aa,640356dee4b09be14d79a36b,rejected,13,1,15,6,2,30,1678719990152,0,123,Your_Name_Resume sundaramma.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/640356dee4b09be14d79a36b/1678719989871/Your_Name_Resume sundaramma.docx,10334,Successfully Submitted,under review,,27,4,7,24,3,27,1682580267288,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,640356dee4b09be14d79a36b,vigyanshaalainternational1617-suvarnaanu91@gmail.com,Suvarna Anu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3c94e4b04eb4af90a27f,63b58bfae4b0ee27df3b0ef8,rejected,13,1,15,9,2,8,1678720148330,0,123,kavali nagaveni resume,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bfae4b0ee27df3b0ef8/1678720148033/kavali nagaveni resume,145770,Successfully Submitted,under review,kavali nagaveni resume,27,4,7,56,3,55,1682582215171,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b58bfae4b0ee27df3b0ef8,vigyanshaalainternational1617-kavalinagaveni023@gmail.com,kavali nagaveni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3d4ae4b03f332d13d861,63b58bf3e4b0ee27df3b0eb0,rejected,13,1,15,12,2,10,1678720330870,0,123,Bhavani.T_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf3e4b0ee27df3b0eb0/1678720330599/Bhavani.T_Resume.docx,11390,Successfully Submitted,under review,,26,3,12,59,3,31,1682513971337,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bf3e4b0ee27df3b0eb0,vigyanshaalainternational1617-tangedubhavani4473@gmail.com,Tangedu bhavani,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f3f62e4b03ad31f03ee50,63b58bfae4b0ee27df3b0eee,rejected,13,1,15,21,2,6,1678720866275,0,123,Your_Name_Resume geetha.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bfae4b0ee27df3b0eee/1678720866127/Your_Name_Resume geetha.docx,10436,Successfully Submitted,under review,,27,4,5,5,3,37,1682571937893,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bfae4b0ee27df3b0eee,vigyanshaalainternational1617-torrigeetha8877@gmail.com,Torri geetha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f404ce4b09d8eecf5c56c,63b58bf6e4b0ee27df3b0ecf,reviewed,13,1,15,25,2,0,1678721100141,0,123,priyanaka resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf6e4b0ee27df3b0ecf/1678721099835/priyanaka resume.docx,20190,Successfully Submitted,under review,,27,4,8,19,3,13,1682583553411,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few allignment issues. Please correct it.
+
+Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b58bf6e4b0ee27df3b0ecf,vigyanshaalainternational1617-laxamagallapriyanka2002@gmail.com,laxmigalla priyanka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+640f4155e4b017ea2f802ab6,640356dde4b09be14d79a367,reviewed,13,1,15,29,2,25,1678721365503,0,123,saritha.M_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/640356dde4b09be14d79a367/1678721365356/saritha.M_Resume.docx,11507,Successfully Submitted,under review,,27,4,7,21,3,55,1682580115380,0,123,rejected,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,640356dde4b09be14d79a367,vigyanshaalainternational1617-malasaritha419@gmail.com,Saritha Mala,27,4,7,23,3,16,1682580196485,0,123,reviewed,"Please ignore the last review 
+
+Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64104149e4b0408a376d8dc4,63b58bfce4b0ee27df3b0f02,rejected,14,2,9,41,2,29,1678786889395,0,123,S.Krishnaveni_ Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bfce4b0ee27df3b0f02/1678786889249/S.Krishnaveni_ Academic_CV.docx,14168,Successfully Submitted,under review,,27,4,7,55,3,39,1682582139754,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b58bfce4b0ee27df3b0f02,vigyanshaalainternational1617-krishnavenisadula4@gmail.com,sadula krishnaveni,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64104329e4b09d8eecf5f905,63c1667be4b06ea11bd5bf9d,reviewed,14,2,9,49,2,29,1678787369115,0,123,CV- TejaswiniV..pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63c1667be4b06ea11bd5bf9d/1678787368795/CV- TejaswiniV..pdf,251976,Successfully Submitted,under review,,27,4,7,50,3,9,1682581809121,0,123,rejected,"- Please make a CV in the provided template, This CV template here is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template. 
+
+*You have every information that can be accommodated into the provided CV template.*
+
+- Age information is unnecessary. Remove it 
+-  Course Taken information is a bit Too Much Info ( it took 2 pages of your CV, Nobody is going to read all of that. You can articulate all of that into 3-4 bullet points as major takeaways under the Technical Experience of the provided CV template. 
+
+- Volunteering Experience is Good, but this will go in the ""Scholarship / Fellowship / Leadership Positions"" section of the provided.  
+
+- Extracurricular Interests are also good.
+
+- NEVER HIGHLIGHT ANYTHING with COLORS on a CV/ Resume. 
+
+- Please take care of the Timeline Chronology (Latest first) while making the new CV.
+
+Please make these changes & resubmit it. Your CV/resume was good, but it will look amazing on the provided CV template. ",62665bb20cf29390fd9bcfeb,63c1667be4b06ea11bd5bf9d,vigyanshaalainternational1617-tejaswinivenkatramanan@students.iisertirupati.ac.in,"Tejaswini, Venkatramanan",5,5,16,39,4,46,1683304786524,0,123,under review,Successfully Submitted,,Tejaswini_Academic CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63c1667be4b06ea11bd5bf9d/1683304786231/Tejaswini_Academic CV.pdf,194070,14,0,11,1,4,18,1684062078645,0,123,reviewed,"Approved !!! Hi Tejaswini, It's better than before. Still, there is room for improvement. 
+1) At the Top, you can Unbold your email, phone & LinkedIn Url (if possible shorten or customize the URL, You can also Hyperlink it.
+2) There are unnecessary spaces/line spacing after every section. It's just making your CV look longer. Try to restrict it to 2 or max 3 pagers. Yours is a 4-pager.
+
+Rest all is good!
+",62665bb20cf29390fd9bcfeb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64105642e4b08154c3480c3c,63b9b17de4b0f26f1e031910,rejected,14,2,11,10,2,58,1678792258146,0,123,Career Exploration Assignment (2).docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b17de4b0f26f1e031910/1678792257907/Career Exploration Assignment (2).docx,105603,Successfully Submitted,under review,,27,4,7,52,3,35,1682581955545,0,123,rejected,Wrong assignment - Career Exploration assignment submitted.,62665bb20cf29390fd9bcfeb,63b9b17de4b0f26f1e031910,vigyanshaalainternational1617-wagmaresneha3583@gmail.com,Wagmare Sneha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64105e81e4b0a15939dd0976,63b58bfbe4b0ee27df3b0efd,rejected,14,2,11,46,2,9,1678794369622,0,123,mangali Mamatha_ Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bfbe4b0ee27df3b0efd/1678794369363/mangali Mamatha_ Academic_CV.docx,12425,Successfully Submitted,under review,,27,4,7,53,3,27,1682582007451,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b58bfbe4b0ee27df3b0efd,vigyanshaalainternational1617-mangalimamatha32@gmail.com,mangali mamatha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64107e7ee4b0298c1b875656,63b26253e4b0a6e3ea32c403,reviewed,14,2,14,2,2,38,1678802558835,0,123,Meghana CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26253e4b0a6e3ea32c403/1678802558399/Meghana CV.docx,256546,Successfully Submitted,under review,,27,4,5,40,3,51,1682574051257,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please remove the pictures attached to the CV. You do not have to add any pictures of your projects. You can write down your projects in 3-4 bullet points. 
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26253e4b0a6e3ea32c403,vigyanshaalainternational1617-meghanaswaero12@gmail.com,Bandari Meghana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64107ef0e4b05dfa8a0559a5,63b26253e4b0a6e3ea32c408,rejected,14,2,14,4,2,32,1678802672832,0,123,keerthana CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26253e4b0a6e3ea32c408/1678802672329/keerthana CV.docx,281533,Successfully Submitted,under review,Keerthana,26,3,13,11,3,25,1682514685106,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26253e4b0a6e3ea32c408,vigyanshaalainternational1617-keerthanagandu06@gmail.com,Gandu Keeerthana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64107fbbe4b01b7cb2708e2d,63b26254e4b0a6e3ea32c40d,reviewed,14,2,14,7,2,55,1678802875547,0,123,poojitha CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26254e4b0a6e3ea32c40d/1678802874769/poojitha CV.docx,28929,Successfully Submitted,under review,,27,4,5,27,3,7,1682573227585,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26254e4b0a6e3ea32c40d,vigyanshaalainternational1617-poojithadasari731@gmail.com,Dasari Poojitha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641082b1e4b0a0ab3766f569,63b26255e4b0a6e3ea32c421,rejected,14,2,14,20,2,33,1678803633161,0,123,M. Nasrin CV assignment.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26255e4b0a6e3ea32c421/1678803632638/M. Nasrin CV assignment.pdf,676827,Successfully Submitted,under review,,27,4,5,17,3,11,1682572631748,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't keep any bullets unused as you did in ""Scholarship / Fellowship / Leadership Positions"".
+- In awards & recongnition section list down the prizes/awards/positions that you have got, do enlist the entrance exams you took. Waiting for results is not a recognition/award. 
+ You can enlist any academic achievements, extracurricular achievements or Cultural achivements.
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26255e4b0a6e3ea32c421,vigyanshaalainternational1617-mettunasrin1017@gmail.com,Mettu Nasrin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641082ede4b0e42c11142d49,63b26256e4b0a6e3ea32c426,rejected,14,2,14,21,2,33,1678803693666,0,123,P. Shirisha CV assignment.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26256e4b0a6e3ea32c426/1678803693179/P. Shirisha CV assignment.pdf,707362,Successfully Submitted,under review,,27,4,8,15,3,25,1682583325677,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b26256e4b0a6e3ea32c426,vigyanshaalainternational1617-panchalingalashirisha86@gmail.com,Panchalingala Shirisha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6410830fe4b0905713e06cf4,63b26256e4b0a6e3ea32c430,rejected,14,2,14,22,2,7,1678803727898,0,123,G. Madhuri CV assignment.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26256e4b0a6e3ea32c430/1678803727464/G. Madhuri CV assignment.pdf,688668,Successfully Submitted,under review,,27,4,8,13,3,27,1682583207917,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+- Please remove unnecessary bullets.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b26256e4b0a6e3ea32c430,vigyanshaalainternational1617-madhurigattu1@gmail.com,Gattu Madhuri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64108734e4b05dfa8a055c2c,63b26256e4b0a6e3ea32c42b,reviewed,14,2,14,39,2,48,1678804788561,0,123,durga CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26256e4b0a6e3ea32c42b/1678804788380/durga CV.docx,27789,Successfully Submitted,under review,,27,4,5,26,3,14,1682573174063,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26256e4b0a6e3ea32c42b,vigyanshaalainternational1617-borellidurga2003@gmail.com,Borelli Durga,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641087d6e4b05dfa8a055c40,63b26255e4b0a6e3ea32c417,reviewed,14,2,14,42,2,30,1678804950944,0,123,Your Name_Academic_CV anitha.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26255e4b0a6e3ea32c417/1678804950626/Your Name_Academic_CV anitha.docx,14440,Successfully Submitted,under review,,27,4,7,17,3,59,1682579879326,0,123,reviewed,"Well Done !!! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26255e4b0a6e3ea32c417,vigyanshaalainternational1617-anithaswaero328@gmail.com,BURGUPALLY ANITHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64109192e4b01b7cb27095dc,63b26255e4b0a6e3ea32c41c,reviewed,14,2,15,24,2,2,1678807442542,0,123,Your Nane mounika_Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26255e4b0a6e3ea32c41c/1678807442159/Your Nane mounika_Academic_CV.docx,14517,Successfully Submitted,under review,,27,4,7,16,3,12,1682579772357,0,123,reviewed,"Well Done!! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26255e4b0a6e3ea32c41c,vigyanshaalainternational1617-rmounika922@gmail.com,Rasnam Mounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6410a013e4b06eca98e5d66d,6344f71ee4b0597709b99a54,reviewed,14,2,16,25,2,55,1678811155508,0,123,pdf_20230314_215358_0000.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/6344f71ee4b0597709b99a54/1678811155153/pdf_20230314_215358_0000.pdf,177586,Successfully Submitted,under review,CV submission ,26,3,11,5,3,4,1682507104113,0,123,rejected,"The information is all good. But, Please use the template or some template. It doesn't look like a CV. You can still send it we will review it. 
+Also, your LinkedIn ID is not correct.",62665bb20cf29390fd9bcfeb,6344f71ee4b0597709b99a54,vigyanshaalainternational1617-a2n00c7@gmail.com,Neha,26,3,15,8,3,45,1682521725820,0,123,under review,Successfully Submitted,,cv resume.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/6344f71ee4b0597709b99a54/1682521725576/cv resume.pdf,50634,27,4,9,6,3,58,1682586418573,0,123,reviewed,Approved for now!! But please make one in the below attached template also.,62665bb20cf29390fd9bcfeb,Your_Name_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/6344f71ee4b0597709b99a54/1682586418574/Your_Name_Resume.docx,19690,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6411c3b2e4b09da04cce21ee,63bd68ebe4b0fa1bc3dfc7a1,reviewed,15,3,13,10,2,10,1678885810072,0,123,20230313_190017_0000.png,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1678885809478/20230313_190017_0000.png,670924,Successfully Submitted,under review,,26,3,12,20,3,4,1682511604936,0,123,rejected,Please use the provided CV/Resume template. The provided CV template is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template. You can still send it to us & we will review it.,62665bb20cf29390fd9bcfeb,63bd68ebe4b0fa1bc3dfc7a1,vigyanshaalainternational1617-gopikakrishnass2001@gmail.com,Gopika Krishna.S.S,26,3,13,31,3,40,1682515900557,0,123,under review,Successfully Submitted,,Academic CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1682515900378/Academic CV.docx,29591,27,4,9,4,3,46,1682586286490,0,123,rejected,"Hi Gopika, Can you please correct the timeline chronology in the ""Scholarship / Fellowship / Leadership Positions"" section in the below-attached file? I have made just a few corrections. You just make the timeline chronology corrections & resubmit it asap.",62665bb20cf29390fd9bcfeb,Academic CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1682586286490/Academic CV.docx,26966,27,4,10,52,3,23,1682592743067,0,123,Academic CV 1.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1682592742709/Academic CV 1.docx,29697,Successfully Submitted,under review,3,3,7,28,4,14,1683098894067,0,123,Academic CV (1).docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1683098894067/Academic CV (1).docx,26966,rejected,"Hi Gopika, Can you please correct the timeline chronology in the ""Scholarship / Fellowship / Leadership Positions"" section in the below-attached file? I have made just a few corrections. You just make the timeline chronology corrections & resubmit it asap.",62665bb20cf29390fd9bcfeb,3,3,7,39,4,38,1683099578382,0,123,Academic CV 1.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1683099578211/Academic CV 1.docx,30041,Successfully Submitted,under review,3,3,7,44,4,31,1683099871368,0,123,rejected,62665bb20cf29390fd9bcfeb,3,3,7,54,4,16,1683100456216,0,123,Academic CV 1.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1683100455909/Academic CV 1.docx,30041,Successfully Submitted,under review,3,3,7,58,4,25,1683100705640,0,123,rejected,62665bb20cf29390fd9bcfeb,3,3,8,2,4,4,1683100924806,0,123,Academic CV 2.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63bd68ebe4b0fa1bc3dfc7a1/1683100924511/Academic CV 2.docx,25993,Successfully Submitted,under review,3,3,8,30,4,12,1683102612337,0,123,reviewed,"Finally Approved!!!! Please take care of the timeline chronology in the ""Scholarship / Fellowship / Leadership Positions"".",62665bb20cf29390fd9bcfeb
+6411f51ce4b0c22e67141e50,63a30b29e4b0463ab6a51514,reviewed,15,3,16,41,2,0,1678898460220,0,123,cv 2023.03.01.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a30b29e4b0463ab6a51514/1678898459841/cv 2023.03.01.pdf,121727,Successfully Submitted,under review,,27,4,5,47,3,20,1682574440615,0,123,reviewed,"Approved !!! Also, make a CV in the provided template, This CV template here is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template. Rest all is good. ",62665bb20cf29390fd9bcfeb,63a30b29e4b0463ab6a51514,vigyanshaalainternational1617-gauri.2020.139@mirandahouse.ac.in,Gauri Patti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641479fbe4b0f7c9236d4bbc,63b43b6ee4b03a9b91a88ab4,reviewed,17,5,14,32,2,27,1679063547630,0,123,Share K.Roja CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b43b6ee4b03a9b91a88ab4/1679063547493/Share K.Roja CV.docx,11295,Successfully Submitted,under review,,27,4,8,27,3,19,1682584039965,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few alignment issues. Please correct it.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b43b6ee4b03a9b91a88ab4,vigyanshaalainternational1617-kadavathroja2@gmail.com,Kadavath roja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64147a2ce4b0f7c9236d4bc3,63f8b6b8e4b027bb123f94fd,reviewed,17,5,14,33,2,16,1679063596091,0,123,Meghana_Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63f8b6b8e4b027bb123f94fd/1679063595918/Meghana_Academic_CV.docx,14107,Successfully Submitted,under review,,27,4,5,7,3,10,1682572030461,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63f8b6b8e4b027bb123f94fd,vigyanshaalainternational1617-umeghana77@gmail.com,u meghana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64147d9ce4b0bcbc8947d19a,63b43b6de4b03a9b91a88aa7,reviewed,17,5,14,47,2,56,1679064476569,0,123,yadamma cv.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b43b6de4b03a9b91a88aa7/1679064476414/yadamma cv.docx,11305,Successfully Submitted,under review,,26,3,13,9,3,29,1682514569344,0,123,reviewed,Approved,62665bb20cf29390fd9bcfeb,63b43b6de4b03a9b91a88aa7,vigyanshaalainternational1617-pentaniyadamma@gmail.com,Pentani yadamma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6414818ee4b023011100d726,63b43b6ee4b03a9b91a88aac,rejected,17,5,15,4,2,46,1679065486980,0,123,Document from Neeraja,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b43b6ee4b03a9b91a88aac/1679065486800/Document from Neeraja,28326,Successfully Submitted,under review,,27,4,7,7,3,44,1682579264825,0,123,rejected,Blank Template,62665bb20cf29390fd9bcfeb,63b43b6ee4b03a9b91a88aac,vigyanshaalainternational1617-sruthuneeru868@gmail.com,Kodi neerajalaxmi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64148678e4b07c6724201585,63b26257e4b0a6e3ea32c435,reviewed,17,5,15,25,2,44,1679066744581,0,123,Your Name_Academic_CVspurthi.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26257e4b0a6e3ea32c435/1679066744422/Your Name_Academic_CVspurthi.docx,14436,Successfully Submitted,under review,,27,4,7,14,3,39,1682579679593,0,123,reviewed,"Approved.
+",62665bb20cf29390fd9bcfeb,63b26257e4b0a6e3ea32c435,vigyanshaalainternational1617-spoorthitulipgladys337290@gmail.com,Chakali Spurthi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6415bd45e4b0e283c7858844,63b26257e4b0a6e3ea32c43a,reviewed,18,6,13,31,2,49,1679146309056,0,123,Your Name_Academic_CVmounika.k.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26257e4b0a6e3ea32c43a/1679146308633/Your Name_Academic_CVmounika.k.docx,14217,Successfully Submitted,under review,,27,4,7,9,3,57,1682579397135,0,123,reviewed,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b26257e4b0a6e3ea32c43a,vigyanshaalainternational1617-kodavathmounika1998@gmail.com,Kodavath Mounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6415cd8fe4b03b8437e986d8,63b43b6de4b03a9b91a88aa2,reviewed,18,6,14,41,2,19,1679150479783,0,123,suhasini_Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b43b6de4b03a9b91a88aa2/1679150479429/suhasini_Academic_CV.docx,14145,Successfully Submitted,under review,,27,4,8,29,3,17,1682584157913,0,123,reviewed,"Well Done !!! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b43b6de4b03a9b91a88aa2,vigyanshaalainternational1617-suhasinikalkoda60@gmail.com,Kalkoda suhasini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6419ba69e4b0dd0be4711442,63b26250e4b0a6e3ea32c3ee,rejected,21,2,14,8,2,41,1679407721613,0,123,Your Name_Academic_CVpinky.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26250e4b0a6e3ea32c3ee/1679407721297/Your Name_Academic_CVpinky.docx,13621,Successfully Submitted,under review,,26,3,13,19,3,17,1682515157586,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26250e4b0a6e3ea32c3ee,vigyanshaalainternational1617-dhansiralabhuvana@gmail.com,DHANSIRALA PINKY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6419ba84e4b0d7af0a29df3b,6415cb75e4b08dddd738f494,rejected,21,2,14,9,2,8,1679407748605,0,123,Sukanya_ Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/6415cb75e4b08dddd738f494/1679407748455/Sukanya_ Academic_CV.docx,12469,Successfully Submitted,under review,,27,4,7,28,3,4,1682580484091,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,6415cb75e4b08dddd738f494,vigyanshaalainternational1617-abhiakhilabhiakhil505@gmail.com,Aakepogu Sukanya,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6419bee3e4b0ebe2e8f54e47,63b26258e4b0a6e3ea32c444,reviewed,21,2,14,27,2,47,1679408867635,0,123,Your Name_Academic_CVmalathi.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26258e4b0a6e3ea32c444/1679408867432/Your Name_Academic_CVmalathi.docx,14213,Successfully Submitted,under review,,27,4,7,9,3,2,1682579342054,0,123,reviewed,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate more on extracurricular achievement.
+- Add more information on the technical & experimental skills.
+- Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b26258e4b0a6e3ea32c444,vigyanshaalainternational1617-silavalasalamalathi@gmail.com,silavalasala malathi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6419c0aae4b0ebe2e8f54e92,63b2624fe4b0a6e3ea32c3d5,rejected,21,2,14,35,2,22,1679409322765,0,123,Your Name_Academic_CVbhagya.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b2624fe4b0a6e3ea32c3d5/1679409322373/Your Name_Academic_CVbhagya.docx,13569,Successfully Submitted,under review,,27,4,5,4,3,21,1682571861900,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b2624fe4b0a6e3ea32c3d5,vigyanshaalainternational1617-jilakaribhagya172@gmail.com,JILAKARA BHAGYA RANI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6419cb54e4b06125509abe59,63b58bf2e4b0ee27df3b0e9c,rejected,21,2,15,20,2,52,1679412052195,0,123,swetha cv,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bf2e4b0ee27df3b0e9c/1679412051668/swetha cv,144152,Successfully Submitted,under review,swetha cv,27,4,6,52,3,41,1682578361282,0,123,rejected,Blank Template,62665bb20cf29390fd9bcfeb,63b58bf2e4b0ee27df3b0e9c,vigyanshaalainternational1617-swethabarla9@gmail.com,barla swetha,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641c26a6e4b0238c1446f77c,63b58bfce4b0ee27df3b0f07,rejected,23,4,10,15,2,2,1679566502302,0,123,Your Name_Academic_CV sindhu.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b58bfce4b0ee27df3b0f07/1679566501955/Your Name_Academic_CV sindhu.docx,14251,Successfully Submitted,under review,,26,3,13,17,3,24,1682515044666,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b58bfce4b0ee27df3b0f07,vigyanshaalainternational1617-namburisindhu194@gmail.com,Namburi sindhu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641c375ae4b0238c1446ff18,63a30b24e4b0463ab6a514ce,reviewed,23,4,11,26,2,18,1679570778960,0,123,DeepthiJoji_Academic_CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a30b24e4b0463ab6a514ce/1679570778434/DeepthiJoji_Academic_CV.pdf,499587,Successfully Submitted,under review,,26,3,11,22,3,5,1682508125146,0,123,reviewed,Approved,62665bb20cf29390fd9bcfeb,63a30b24e4b0463ab6a514ce,vigyanshaalainternational1617-deepthijojik@gmail.com,Deepthi Joji,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641c4556e4b08c6fc4e0ec37,63c984cde4b0547e32d5e8e7,reviewed,23,4,12,25,2,58,1679574358213,0,123,Subaita_Academic_CV.docx.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63c984cde4b0547e32d5e8e7/1679574357853/Subaita_Academic_CV.docx.pdf,45391,Successfully Submitted,under review,,26,3,10,42,3,29,1682505749759,0,123,reviewed,"Well Done! Try to elaborate more on the Fellowship learnings of Incubator, One line each for communication, critical thinking & Research & collaboration.
+- Please take care of the spaces in your resume. 
+- Avoid giving references unless it's asked in the job posting.
+- Try to add more technical skills in the profile summary.",62665bb20cf29390fd9bcfeb,63c984cde4b0547e32d5e8e7,vigyanshaalainternational1617-subaitasupti@yahoo.com,SUBAITA RAHMAN SUPTI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641c83e0e4b0238c14471777,63a99a5be4b032b2b012df47,reviewed,23,4,16,52,2,48,1679590368235,0,123,jadalamounika cv.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a99a5be4b032b2b012df47/1679590367773/jadalamounika cv.docx,206905,Successfully Submitted,under review,hlo this is J.Mounika !,27,4,6,8,3,46,1682575726573,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please remove the pictures attached to the CV. You do not have to add any pictures of your projects. You can write down your projects in 3-4 bullet points. 
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63a99a5be4b032b2b012df47,vigyanshaalainternational1617-jadalamounika233@gmail.com,jadalamounika,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641db119e4b0ff9080a34fa8,63b9b1d2e4b0f26f1e031d96,rejected,24,5,14,18,2,1,1679667481714,0,123,Your Name_Academic_CV SHRAVANI.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1d2e4b0f26f1e031d96/1679667481416/Your Name_Academic_CV SHRAVANI.docx,21328,Successfully Submitted,under review,,27,4,5,59,3,29,1682575169145,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b9b1d2e4b0f26f1e031d96,vigyanshaalainternational1617-shravaninarige123@gmail.com,SHRAVANI NARIGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+641f1c2ce4b02ccaaadc47ef,63b9b1b3e4b0f26f1e031be2,rejected,25,6,16,7,2,8,1679760428219,0,123,Your Name_Academic_CV SHRAVANI (1).docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1b3e4b0f26f1e031be2/1679760428027/Your Name_Academic_CV SHRAVANI (1).docx,21425,Successfully Submitted,under review,MY ASSIGNMENT PAMU.SOUMYA,27,4,6,11,3,46,1682575906707,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b1b3e4b0f26f1e031be2,vigyanshaalainternational1617-pamusoumya123@gmail.com,SOUMYA PAMU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64201542e4b038e0e39a65d3,63b9b1cbe4b0f26f1e031d34,rejected,26,0,9,49,2,54,1679824194489,0,123,Your Name_Academic_CVBANOTHU PRATHYUSHA.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1cbe4b0f26f1e031d34/1679824194211/Your Name_Academic_CVBANOTHU PRATHYUSHA.pdf,102577,Successfully Submitted,under review,,27,4,6,0,3,31,1682575231901,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b1cbe4b0f26f1e031d34,vigyanshaalainternational1617-banothprathyusha58@gmail.com,BANOTH PRATHYUSHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642022eee4b0a3124ac581ca,63b9b1cde4b0f26f1e031d59,reviewed,26,0,10,48,2,14,1679827694707,0,123,ramya palabinadela cv.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1cde4b0f26f1e031d59/1679827694305/ramya palabinadela cv.pdf,618609,Successfully Submitted,under review,,26,3,12,31,3,56,1682512316360,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+- Correct ""Scholarship / Fellowship / Leadership Positions"" timeline chronology.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b9b1cde4b0f26f1e031d59,vigyanshaalainternational1617-ramyapalabindela@gmail.com,RAMYA PALABINDELA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64202361e4b05c064a31e7c2,63b9b1c4e4b0f26f1e031ccc,rejected,26,0,10,50,2,9,1679827809933,0,123,Your Name_Academic_CVBoda Sandhya.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1c4e4b0f26f1e031ccc/1679827809526/Your Name_Academic_CVBoda Sandhya.pdf,101302,Successfully Submitted,under review,,27,4,6,1,3,13,1682575273941,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b1c4e4b0f26f1e031ccc,vigyanshaalainternational1617-sandhyaboda1119@gmail.com,SANDHYA BODA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6420273ae4b0d3858b149871,63b9b136e4b0f26f1e031568,rejected,26,0,11,6,2,34,1679828794411,0,123,Your Name_Academic cv banala anitha.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b136e4b0f26f1e031568/1679828793797/Your Name_Academic cv banala anitha.pdf,622473,Successfully Submitted,under review,,27,4,6,13,3,23,1682576003152,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b136e4b0f26f1e031568,vigyanshaalainternational1617-chittibanala57@gmail.com,BANALA ANITHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64202838e4b037a27df8b1c1,63b9b17ee4b0f26f1e031925,rejected,26,0,11,10,2,48,1679829048240,0,123,Your Name_Academic_CV sruthi.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b17ee4b0f26f1e031925/1679829047714/Your Name_Academic_CV sruthi.pdf,618323,Successfully Submitted,under review,,27,4,6,10,3,59,1682575859703,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b17ee4b0f26f1e031925,vigyanshaalainternational1617-sruthijangiti9@gmail.com,SRUTHI JANGITI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64202ceee4b05f1108bae7f5,63b9b189e4b0f26f1e0319b9,rejected,26,0,11,30,2,54,1679830254129,0,123,sravanthi.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b189e4b0f26f1e0319b9/1679830253702/sravanthi.pdf,614998,Successfully Submitted,under review,,27,4,7,19,3,41,1682579981376,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b189e4b0f26f1e0319b9,vigyanshaalainternational1617-sravanthibichala4@gmail.com,SRAVANTHI BICHALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64202e8fe4b0b9b4b1a8f448,63babdb9e4b0c9f40903e983,rejected,26,0,11,37,2,51,1679830671548,0,123,MEGHANA.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63babdb9e4b0c9f40903e983/1679830671437/MEGHANA.docx,21199,Successfully Submitted,under review,,27,4,5,58,3,11,1682575091770,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63babdb9e4b0c9f40903e983,vigyanshaalainternational1617-nunemeghana1103@gmail.com,NUNE MEGHANA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6420370fe4b03438525045dd,63b9b159e4b0f26f1e031726,rejected,26,0,12,14,2,7,1679832847381,0,123,Your Name_Academic_CV chityala.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b159e4b0f26f1e031726/1679832846905/Your Name_Academic_CV chityala.pdf,575699,Successfully Submitted,under review,,27,4,6,1,3,49,1682575309252,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b159e4b0f26f1e031726,vigyanshaalainternational1617-kavyachityala123@gmail.com,KAVYA CHITYALA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6420418de4b0b9b4b1a8f8d9,63babdbde4b0c9f40903e9b6,rejected,26,0,12,58,2,53,1679835533763,0,123,Your Name_Academic_CVankitha.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63babdbde4b0c9f40903e9b6/1679835533397/Your Name_Academic_CVankitha.pdf,131980,Successfully Submitted,under review,,27,4,5,57,3,17,1682575037825,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63babdbde4b0c9f40903e9b6,vigyanshaalainternational1617-ankithaguguloth46@gmail.com,ANKITHA GUGULOTH,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64204afce4b07a9db1e32b38,63b9b156e4b0f26f1e03170d,rejected,26,0,13,39,2,8,1679837948864,0,123,deevena cv.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b156e4b0f26f1e03170d/1679837948540/deevena cv.docx,27489,Successfully Submitted,under review,,27,4,8,4,3,27,1682582667903,0,123,rejected,"Please take care of the following issues next time.
+- Resume is still Incomplete. Work Project details/ Scolarship_Fellowship section/Awards_Reconginition needs information.
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b156e4b0f26f1e03170d,vigyanshaalainternational1617-deevenakasipaka15@gmail.com,Deevena Kasipaka,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642458cbe4b0df2dc8fd6b19,63b26258e4b0a6e3ea32c449,reviewed,29,3,15,27,2,7,1680103627911,0,123,Krishna_Bulchandani_CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26258e4b0a6e3ea32c449/1680103627473/Krishna_Bulchandani_CV.pdf,92643,Successfully Submitted,under review,this is the one i have made in latex. does this work? let me know.,26,3,12,0,3,10,1682510410410,0,123,reviewed,Approved,62665bb20cf29390fd9bcfeb,63b26258e4b0a6e3ea32c449,vigyanshaalainternational1617-krishna.bulchandani@ymail.com,Krishna Bulchandani,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6425267de4b016d5dcbc1db6,63b9b1d0e4b0f26f1e031d78,rejected,30,4,6,4,2,45,1680156285064,0,123,Your sunivya.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1d0e4b0f26f1e031d78/1680156284804/Your sunivya.pdf,115492,Successfully Submitted,under review,,27,4,7,18,3,48,1682579928831,0,123,rejected,"""Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing """"NO EXPERIENCES"""", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write """"NO REFERENCES"""".""
+",62665bb20cf29390fd9bcfeb,63b9b1d0e4b0f26f1e031d78,vigyanshaalainternational1617-sunivyachatla115@gmail.com,SUNIVYA CHATLA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642528bae4b0cb0af5dfa6cb,63b9b1b8e4b0f26f1e031c29,rejected,30,4,6,14,2,18,1680156858648,0,123,Your Name_Academic_CV lalitha.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1b8e4b0f26f1e031c29/1680156858312/Your Name_Academic_CV lalitha.docx,24630,Successfully Submitted,under review,,26,3,12,35,3,56,1682512556057,0,123,rejected,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+- Correct ""Scholarship / Fellowship / Leadership Positions"" timeline chronology.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b9b1b8e4b0f26f1e031c29,vigyanshaalainternational1617-lalithajimida0@gmail.com,LALITHA JIMIDA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64252a78e4b02652e6684362,63b9b1a2e4b0f26f1e031b04,rejected,30,4,6,21,2,44,1680157304191,0,123,kavya cv.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1a2e4b0f26f1e031b04/1680157303831/kavya cv.pdf,534608,Successfully Submitted,under review,,27,4,6,12,3,44,1682575964277,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b1a2e4b0f26f1e031b04,vigyanshaalainternational1617-kavyachinnapelly114@gmail.com,KAVYA CHINNAPELLY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64252b8fe4b098f22382ecb6,63b9b1d1e4b0f26f1e031d8c,rejected,30,4,6,26,2,23,1680157583653,0,123,zohera.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1d1e4b0f26f1e031d8c/1680157583274/zohera.pdf,115816,Successfully Submitted,under review,,27,4,6,14,3,12,1682576052791,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b1d1e4b0f26f1e031d8c,vigyanshaalainternational1617-zoheramohmmad123@gmail.com,ZOHERA MOHMMAD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64252cede4b012e48d598f08,63b9b1b1e4b0f26f1e031bd3,rejected,30,4,6,32,2,13,1680157933167,0,123,Your Name_Academic_CV shuna.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b1b1e4b0f26f1e031bd3/1680157932674/Your Name_Academic_CV shuna.pdf,622495,Successfully Submitted,under review,,26,3,12,53,3,39,1682513619605,0,123,rejected,"Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b9b1b1e4b0f26f1e031bd3,vigyanshaalainternational1617-shunarshu73@gmail.com,SHUNAMAIT GADDAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64253380e4b0183b81c113a2,63b9b14fe4b0f26f1e0316b8,rejected,30,4,7,0,2,16,1680159616064,0,123,Your Name_Academic_CV PRASANNA.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b14fe4b0f26f1e0316b8/1680159615701/Your Name_Academic_CV PRASANNA.docx,27521,Successfully Submitted,under review,,27,4,6,2,3,36,1682575356361,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b14fe4b0f26f1e0316b8,vigyanshaalainternational1617-munigapaulson32@gmail.com,GUVVALA LAXMIPRASANNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642533c7e4b0b347803e8549,63b9b143e4b0f26f1e031608,rejected,30,4,7,1,2,27,1680159687972,0,123,B.Prathyusha rocky.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b143e4b0f26f1e031608/1680159687465/B.Prathyusha rocky.pdf,719371,Successfully Submitted,under review,,27,4,6,15,3,31,1682576131083,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+",62665bb20cf29390fd9bcfeb,63b9b143e4b0f26f1e031608,vigyanshaalainternational1617-prathyusharocky29@gmail.com,BODDU PRATHYUSHA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642557f2e4b098f22382fb92,63be944de4b089360edd4109,reviewed,30,4,9,35,2,46,1680168946365,0,123,Safa Pary_Week 7_Assignment.zip,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63be944de4b089360edd4109/1680168945878/Safa Pary_Week 7_Assignment.zip,300017,Successfully Submitted,under review,,26,3,10,43,3,39,1682505819028,0,123,reviewed,Approved!,62665bb20cf29390fd9bcfeb,63be944de4b089360edd4109,vigyanshaalainternational1617-safapary101@gmail.com,SAFA PARY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64256bd9e4b0916ef874697b,63b85b10e4b0500381f84bd6,reviewed,30,4,11,0,2,41,1680174041350,0,123,Your Name_Academic_CV abhitha.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b85b10e4b0500381f84bd6/1680174040866/Your Name_Academic_CV abhitha.pdf,610915,Successfully Submitted,under review,,26,3,12,34,3,16,1682512456269,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+- Correct ""Scholarship / Fellowship / Leadership Positions"" timeline chronology.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b85b10e4b0500381f84bd6,vigyanshaalainternational1617-abhisv99@gmail.com,ABHITHA MADASI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64259a53e4b0faf10cf87db5,63b85ad3e4b0500381f848f5,reviewed,30,4,14,18,2,59,1680185939773,0,123,CV(Sharry) (K).pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b85ad3e4b0500381f848f5/1680185939448/CV(Sharry) (K).pdf,37555,Successfully Submitted,under review,,26,3,11,45,3,13,1682509513109,0,123,reviewed,Approved!!,62665bb20cf29390fd9bcfeb,63b85ad3e4b0500381f848f5,vigyanshaalainternational1617-ksharry799@gmail.com,Sharry,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6425eda4e4b0f77e01266c6b,63b26258e4b0a6e3ea32c44e,reviewed,30,4,20,14,2,28,1680207268355,0,123,resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26258e4b0a6e3ea32c44e/1680207268218/resume.docx,8250,Successfully Submitted,under review,,26,3,11,58,3,33,1682510313014,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b26258e4b0a6e3ea32c44e,vigyanshaalainternational1617-lavanyasachdev12@gmail.com,Lavanya Sachdev,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6425f0c2e4b0916ef87497de,63a45486e4b0fa7eb0f4f970,reviewed,30,4,20,27,2,46,1680208066391,0,123,Amalendu Sasikumar Nair_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a45486e4b0fa7eb0f4f970/1680208066059/Amalendu Sasikumar Nair_Resume.docx,23263,Successfully Submitted,under review,,26,3,10,54,3,6,1682506446432,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume befroe sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""2nd year BSc. Zoology Student"" at the top of your resume. Name is enough.
+- In Certification & courses take care of the Timeline Chronology.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63a45486e4b0fa7eb0f4f970,vigyanshaalainternational1617-amalendus4nair@gmail.com,Amalendu Sasikumar Nair,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642694e8e4b0a7693768e11c,63c6dedce4b0cf84e7e41023,reviewed,31,5,8,8,2,8,1680250088289,0,123,Vertika Rai _ Resume.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63c6dedce4b0cf84e7e41023/1680250087938/Vertika Rai _ Resume.pdf,84975,Successfully Submitted,under review,,26,3,11,17,3,18,1682507838826,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please add Technical skills/Experimental skills that you acquired during your Bachelors.
+- Add any internship experiences if any.
+- Elaborate on how you helped ""Pledge a Smile Foundation"" to raise funds, What skills you used, and What effort you made.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63c6dedce4b0cf84e7e41023,vigyanshaalainternational1617-vertikarai23@gmail.com,Vertika Rai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6426ab80e4b07e7d5ef1c74b,638af9fbe4b062595b8c9d16,reviewed,31,5,9,44,2,32,1680255872462,0,123,R Rajeshwari.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/638af9fbe4b062595b8c9d16/1680255872155/R Rajeshwari.docx,25936,Successfully Submitted,under review,,26,3,11,10,3,58,1682507458503,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- In Certification & courses take care of the Timeline Chronology. 
+- In the Leadership Position section, Please take care of the timeline chronology (Latest first)  & misalignment.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,638af9fbe4b062595b8c9d16,vigyanshaalainternational1617-rajeshwariramagopal@gmail.com,R Rajeshwari,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6426f34ee4b08379d4bad5c9,63a5ae71e4b08cef919e66be,reviewed,31,5,14,50,2,54,1680274254399,0,123,Chinmayee H Kulkarni_CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a5ae71e4b08cef919e66be/1680274253918/Chinmayee H Kulkarni_CV.pdf,80229,Successfully Submitted,under review,,26,3,11,2,3,1,1682506921885,0,123,rejected,"The information is all good. But, Please use the template or some template. It doesn't look like a CV. You can still send it we will review it.",62665bb20cf29390fd9bcfeb,63a5ae71e4b08cef919e66be,vigyanshaalainternational1617-chinmayeekulk13@gmail.com,Chinmayee Kulkarni,28,5,11,43,3,32,1682682212296,0,123,under review,Successfully Submitted,,Chinmayee Kulkarni_Academic CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a5ae71e4b08cef919e66be/1682682211954/Chinmayee Kulkarni_Academic CV.docx,25239,3,3,7,41,4,27,1683099687416,0,123,reviewed,Approved!!!!!,62665bb20cf29390fd9bcfeb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642acf88e4b0b50ba46f6f1a,63b9b14ce4b0f26f1e03168f,rejected,3,1,13,7,3,20,1680527240212,0,123,mayuri cv.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b14ce4b0f26f1e03168f/1680527239854/mayuri cv.docx,38595,Successfully Submitted,under review,,27,4,8,18,3,17,1682583497105,0,123,rejected,"Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- If you don't have any work experience, avoid writing ""NO EXPERIENCES"", you can remove the whole section. Or you can add some Laboratory experiences or some event management experience.
+- Add any internship experiences if any.
+- Use bullets to enlist your Extracurricular activities.
+- Please remove the unnecessary bullets.
+_ If you don't have any references, remove the references section. Please don't write ""NO REFERENCES"".",62665bb20cf29390fd9bcfeb,63b9b14ce4b0f26f1e03168f,vigyanshaalainternational1617-thummidimayuri333@gmail.com,Mayuri Thummidi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642ae435e4b081fab4a1a725,63b26252e4b0a6e3ea32c3f8,reviewed,3,1,14,35,3,33,1680532533406,0,123,Your_Nandini_Resume.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26252e4b0a6e3ea32c3f8/1680532533187/Your_Nandini_Resume.pdf,48173,Successfully Submitted,under review,Bairi Nandini CV RESUME ,27,4,8,17,3,23,1682583443984,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- Try to restrict the present resume to 1 page.
+- Also there a few allignment issues. Please correct it.
+
+Rest all is good. All the best. 
+",62665bb20cf29390fd9bcfeb,63b26252e4b0a6e3ea32c3f8,vigyanshaalainternational1617-bairinandini471@gmail.com,bairinandini,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642daf0ee4b06a9625f61f12,63b9b09ce4b0f26f1e030db2,reviewed,5,3,17,25,3,34,1680715534639,0,123,Your Name_Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b09ce4b0f26f1e030db2/1680715534320/Your Name_Academic_CV.docx,26923,Successfully Submitted,under review,,26,3,11,33,3,32,1682508812637,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- In Awards & Recognitions take care of the Timeline Chronology.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b9b09ce4b0f26f1e030db2,vigyanshaalainternational1617-kararimariyam@gmail.com,Karari Mariyam Junaid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+642e9b42e4b018730a3daf15,63a30b0fe4b0463ab6a513d7,reviewed,6,4,10,13,3,22,1680776002589,0,123,CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a30b0fe4b0463ab6a513d7/1680776002208/CV.docx,40602,Successfully Submitted,under review,,26,3,11,30,3,6,1682508606706,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- NEVER HIGHLIGHT INFORMATION WITH ANY COLOUR, PLEASE!!! KEEP THEM UNHIGHLIGHTED. *IT'S ANNOYING !!!*
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please avoid any bullet unattended as you did in the ""Work / Project / Technical Experience""
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63a30b0fe4b0463ab6a513d7,vigyanshaalainternational1617-bipashabanerjee496@gmail.com,Bipasha Banerjee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64317845e4b01510109a2550,63b9b15ce4b0f26f1e031754,rejected,8,6,14,20,3,53,1680963653562,0,123,manisha.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b15ce4b0f26f1e031754/1680963653194/manisha.docx,26958,Successfully Submitted,under review,,27,4,7,13,3,48,1682579628751,0,123,rejected,Blank Template,62665bb20cf29390fd9bcfeb,63b9b15ce4b0f26f1e031754,vigyanshaalainternational1617-gangothrijadi2003@gmail.com,Gangalaxmi Jadi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64317d2fe4b068bfff7bf206,63b9b15fe4b0f26f1e03177d,rejected,8,6,14,41,3,51,1680964911975,0,123,CV_Resume TemplateINC.20.zip,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b9b15fe4b0f26f1e03177d/1680964911655/CV_Resume TemplateINC.20.zip,41544,Successfully Submitted,under review,,27,4,8,29,3,42,1682584182958,0,123,rejected,Blank Template,62665bb20cf29390fd9bcfeb,63b9b15fe4b0f26f1e03177d,vigyanshaalainternational1617-vanirathnam27@gmail.com,Vani Rathnam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64317ee0e4b024a653894d31,63babdc1e4b0c9f40903e9ec,rejected,8,6,14,49,3,4,1680965344951,0,123,CV_Resume TemplateINC.20 (3).zip,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63babdc1e4b0c9f40903e9ec/1680965344578/CV_Resume TemplateINC.20 (3).zip,41544,Successfully Submitted,under review,,27,4,6,16,3,32,1682576192069,0,123,rejected,blank template,62665bb20cf29390fd9bcfeb,63babdc1e4b0c9f40903e9ec,vigyanshaalainternational1617-vyshurathnam@gmail.com,Rathnam Vyshnavi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64319c0de4b0ef1b7fdaadf4,63b26260e4b0a6e3ea32c4bf,reviewed,8,6,16,53,3,33,1680972813003,0,123,Siddhi Bodke_Academic_CV1.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b26260e4b0a6e3ea32c4bf/1680972812587/Siddhi Bodke_Academic_CV1.pdf,172219,Successfully Submitted,under review,,26,3,11,50,3,39,1682509839519,0,123,reviewed,Approved!!!,62665bb20cf29390fd9bcfeb,63b26260e4b0a6e3ea32c4bf,vigyanshaalainternational1617-siddhibodke22@gmail.com,Siddhi Bodke,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6431c023e4b024a653896101,63b2625ee4b0a6e3ea32c4a0,rejected,8,6,19,27,3,31,1680982051346,0,123,Geetha Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b2625ee4b0a6e3ea32c4a0/1680982051187/Geetha Resume.docx,11879,Successfully Submitted,under review,CV assignment,26,3,11,56,3,12,1682510172409,0,123,rejected,"- Please correct the font settings s, para alignments 
+- Timeline missing in Work Experience section. 
+- Please correct the timeline chronology of  ""Certifications & Courses""",62665bb20cf29390fd9bcfeb,63b2625ee4b0a6e3ea32c4a0,vigyanshaalainternational1617-gita.c.2004@gmail.com,Geetha. C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6432e065e4b04dd1fd4475e6,63a30b21e4b0463ab6a514b3,reviewed,9,0,15,57,3,25,1681055845446,0,123,Shravani_Resume.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a30b21e4b0463ab6a514b3/1681055845276/Shravani_Resume.docx,20559,Successfully Submitted,under review,,26,3,10,58,3,32,1682506712189,0,123,reviewed,"Well Done! Please take care of the following issues next time.
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family. In your case, it was very less.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Please don't write ""Student"" at the top of your resume. Name is enough.
+- In Certification & courses take care of the Timeline Chronology.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63a30b21e4b0463ab6a514b3,vigyanshaalainternational1617-maralshravani@gmail.com,Shravani Maral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6432e7e2e4b044308d0a3bed,631c7284e4b031b848544e40,reviewed,9,0,16,29,3,22,1681057762820,0,123,Sunidhi Bisht - Academic CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/631c7284e4b031b848544e40/1681057762464/Sunidhi Bisht - Academic CV.docx,19479,Successfully Submitted,under review,,27,4,7,29,3,32,1682580572669,0,123,reviewed,"Approved! 
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+- Take care of the unnecessary spaces. 
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,631c7284e4b031b848544e40,vigyanshaalainternational1617-lbisht979@gmail.com,Sunidhi Bisht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6432f577e4b01854a59c040a,63b85ad1e4b0500381f848cd,reviewed,9,0,17,27,3,19,1681061239001,0,123,Tanisha Gupta_Academic_CV.docx,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63b85ad1e4b0500381f848cd/1681061238675/Tanisha Gupta_Academic_CV.docx,14480,Successfully Submitted,under review,,26,3,11,48,3,56,1682509736031,0,123,reviewed,"Well Done! Please take care of the following issues next time
+
+- Avoid grammatical & spelling mistakes. always proofread your resume before sending it. take help from your friends/family.
+- Always send resume/CV in PDF format.
+_Take care of the unnecessary spaces. 
+- Keep Uniformity in the selection of the ""Bullets"" throughout the document.
+
+Rest all is good. All the best. ",62665bb20cf29390fd9bcfeb,63b85ad1e4b0500381f848cd,vigyanshaalainternational1617-tanishagupta1234.college@gmail.com,Tanisha Gupta,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64332b48e4b0376423a9158d,63a6c75fe4b0e6ceeca02428,reviewed,9,0,21,16,3,56,1681075016188,0,123,Dishari Pal_Academic CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a6c75fe4b0e6ceeca02428/1681075015692/Dishari Pal_Academic CV.pdf,595899,Successfully Submitted,under review,,26,3,11,20,3,24,1682508024490,0,123,reviewed,Approved,62665bb20cf29390fd9bcfeb,63a6c75fe4b0e6ceeca02428,vigyanshaalainternational1617-dishari.pal@niser.ac.in,dishari.pal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643420c0e4b07332d76cb775,63ca801ce4b03aaafef973cb,reviewed,10,1,14,44,3,16,1681137856782,0,123,Ishmeet_Kaur_Resume..pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63ca801ce4b03aaafef973cb/1681137856424/Ishmeet_Kaur_Resume..pdf,74140,Successfully Submitted,under review,Please provide feedback.,27,4,6,9,3,55,1682575795048,0,123,reviewed,"Approved !!! Also, make a CV in the provided template, This CV template here is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template. Rest all is good.",62665bb20cf29390fd9bcfeb,63ca801ce4b03aaafef973cb,vigyanshaalainternational1617-ishmeetkaur645@gmail.com,Ishmeet Kaur,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64343ee0e4b0f3b6c277467a,63a30b32e4b0463ab6a515a8,reviewed,10,1,16,52,3,48,1681145568108,0,123,Anushka-CV.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63a30b32e4b0463ab6a515a8/1681145567771/Anushka-CV.pdf,411029,Successfully Submitted,under review,,26,3,12,6,3,25,1682510785228,0,123,reviewed,"Approved because of the content! Please make a CV in the provided template, This CV template here is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template.",62665bb20cf29390fd9bcfeb,63a30b32e4b0463ab6a515a8,vigyanshaalainternational1617-anushka01sarkar@gmail.com,Anushka Sarkar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+643450ede4b0d7ed8dd63a10,63babda1e4b0c9f40903e860,under review,10,1,18,9,3,49,1681150189380,0,123,final aastha's resume.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63babda1e4b0c9f40903e860/1681150189051/final aastha's resume.pdf,45832,Successfully Submitted,under review,,27,4,7,57,3,52,1682582272740,0,123,rejected,Please use the provided CV/Resume template. The provided CV template is an industry-approved template & our students are getting amazing opportunities based on their CVs made with this template. You can still send it to us & we will review it.,62665bb20cf29390fd9bcfeb,63babda1e4b0c9f40903e860,vigyanshaalainternational1617-aasthavini30@gmail.com,Aastha kumari,5,5,15,15,4,11,1683299711067,0,123,under review,Successfully Submitted,,aastha-cv-123.pdf,https://s3-ap-southeast-1.amazonaws.com/output-test-videos/assets/assignments/6256beeb0cf252fdaa9c8562/639c5460e4b0e67197c4d0ce/63babda1e4b0c9f40903e860/1683299710729/aastha-cv-123.pdf,76759,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
